@@ -165,8 +165,8 @@
                         fontWeight: "700",
                         userSelect: "text"
                     },
-                    innerHTML: "GitHub - 005Konz",
-                    onclick: () => window.open("https://github.com/005Konz/Blooket-Cheats", "_blank").focus()
+                    innerHTML: "made by .gg/solooo",
+                    onclick: () => window.open("https://discord.gg/solooo", "_blank").focus()
                 }),
                 (controlButtons = createElement("div", {
                     id: "controlButtons",
